@@ -15,7 +15,7 @@
 
 - 📱 Call / WhatsApp: **+91 9337287692**
 
-- 💻 GitHub: **https://github.com/Swaraj-02**
+- 💻 Website: **https://swaraj-portfolio-seven.vercel.app/**
 
 ---
 
